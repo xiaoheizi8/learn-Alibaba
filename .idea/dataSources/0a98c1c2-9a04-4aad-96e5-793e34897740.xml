@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSource name="config">
+  <database-model serializer="dbm" dbms="MYSQL" family-id="MYSQL" format-version="4.45">
+    <root id="1">
+      <DefaultCasing>lower/lower</DefaultCasing>
+      <ServerVersion>8.0.31</ServerVersion>
+    </root>
+    <schema id="2" parent="1" name="b_books"/>
+    <schema id="3" parent="1" name="blog"/>
+    <schema id="4" parent="1" name="book"/>
+    <schema id="5" parent="1" name="bookstore"/>
+    <schema id="6" parent="1" name="cap"/>
+    <schema id="7" parent="1" name="cap_school"/>
+    <schema id="8" parent="1" name="cap_trade"/>
+    <schema id="9" parent="1" name="cloudlibrary"/>
+    <schema id="10" parent="1" name="cloudlibrary_plus"/>
+    <schema id="11" parent="1" name="crud"/>
+    <schema id="12" parent="1" name="datasource1"/>
+    <schema id="13" parent="1" name="datasource2"/>
+    <schema id="14" parent="1" name="db2024">
+      <Current>1</Current>
+    </schema>
+    <schema id="15" parent="1" name="db_blog"/>
+    <schema id="16" parent="1" name="db_book"/>
+    <schema id="17" parent="1" name="db_books"/>
+    <schema id="18" parent="1" name="db_database"/>
+    <schema id="19" parent="1" name="db_hospital"/>
+    <schema id="20" parent="1" name="db_library"/>
+    <schema id="21" parent="1" name="db_ljw"/>
+    <schema id="22" parent="1" name="db_mall"/>
+    <schema id="23" parent="1" name="db_rainng_course"/>
+    <schema id="24" parent="1" name="db_shixun"/>
+    <schema id="25" parent="1" name="db_test"/>
+    <schema id="26" parent="1" name="forum"/>
+    <schema id="27" parent="1" name="gradem"/>
+    <schema id="28" parent="1" name="information_schema"/>
+    <schema id="29" parent="1" name="li_kou"/>
+    <schema id="30" parent="1" name="library_information"/>
+    <schema id="31" parent="1" name="library_management"/>
+    <schema id="32" parent="1" name="ljw"/>
+    <schema id="33" parent="1" name="ljw_mall"/>
+    <schema id="34" parent="1" name="lrms"/>
+    <schema id="35" parent="1" name="mayikt"/>
+    <schema id="36" parent="1" name="my"/>
+    <schema id="37" parent="1" name="my_sql"/>
+    <schema id="38" parent="1" name="mybatis"/>
+    <schema id="39" parent="1" name="mysql"/>
+    <schema id="40" parent="1" name="nacos_config"/>
+    <schema id="41" parent="1" name="niit"/>
+    <schema id="42" parent="1" name="performance_schema"/>
+    <schema id="43" parent="1" name="qing"/>
+    <schema id="44" parent="1" name="ruoyi"/>
+    <schema id="45" parent="1" name="ry_vue"/>
+    <schema id="46" parent="1" name="sakila"/>
+    <schema id="47" parent="1" name="satoken"/>
+    <schema id="48" parent="1" name="seckill"/>
+    <schema id="49" parent="1" name="second_hand_trading"/>
+    <schema id="50" parent="1" name="secondhand"/>
+    <schema id="51" parent="1" name="self_student_teams"/>
+    <schema id="52" parent="1" name="spring_database"/>
+    <schema id="53" parent="1" name="springboot3_db"/>
+    <schema id="54" parent="1" name="springboot_3"/>
+    <schema id="55" parent="1" name="springcloud"/>
+    <schema id="56" parent="1" name="springdata_jpa"/>
+    <schema id="57" parent="1" name="store"/>
+    <schema id="58" parent="1" name="summer"/>
+    <schema id="59" parent="1" name="sys"/>
+    <schema id="60" parent="1" name="system"/>
+    <schema id="61" parent="1" name="tcs"/>
+    <schema id="62" parent="1" name="test"/>
+    <schema id="63" parent="1" name="test3"/>
+    <schema id="64" parent="1" name="uniapp_blog"/>
+    <schema id="65" parent="1" name="uniapp_learn"/>
+    <schema id="66" parent="1" name="vue3_learn"/>
+    <schema id="67" parent="1" name="vue_book"/>
+    <schema id="68" parent="1" name="yshop2"/>
+    <schema id="69" parent="1" name="yw"/>
+  </database-model>
+</dataSource>

@@ -1,0 +1,22 @@
+server:
+  port: 8001
+#application +druid-mysql8 driver
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    type: com.alibaba.druid.pool.DruidDataSource
+    url: jdbc:mysql://localhost:3306/db2024?characterEncoding=utf8&useSSL=false&serverTimezone=GMT%2B8&rewriteBatchedStatements=true&allowPublicKeyRetrieval=true
+    username: root
+    password: 123456
+    #开发环境
+  profiles:
+    active: dev
+#  mvc:
+#    pathmatch:
+#      matching-strategy: path_pattern_parser
+#mybatis
+mybatis:
+  mapper-locations: classpath:mapper/*.xml
+  type-aliases-package: com.example.cloud.entities
+  configuration:
+    map-underscore-to-camel-case: true

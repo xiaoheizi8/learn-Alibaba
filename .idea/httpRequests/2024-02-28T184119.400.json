@@ -1,0 +1,6 @@
+{
+  "timestamp": "2024-02-28T10:41:19.124+00:00",
+  "status": 400,
+  "error": "Bad Request",
+  "path": "/pay/update"
+}

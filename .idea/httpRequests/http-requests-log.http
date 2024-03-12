@@ -1,0 +1,119 @@
+GET http://localhost:8001/pay/get/1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-02-28T192717.500.json
+
+###
+
+GET http://localhost:8001/pay/getAll
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-02-28T184128.500.json
+
+###
+
+PUT http://localhost:8001/pay/update
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-02-28T184119.400.json
+
+###
+
+GET http://localhost:8001/pay/get/1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-02-28T182139.500.json
+
+###
+
+GET http://localhost:8001/pay/get/1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-02-28T182136.500.json
+
+###
+
+GET http://localhost:8001/pay/getAll
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-02-28T182125.500.json
+
+###
+
+GET http://localhost:8001/pay/get/1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-02-28T181454.500.json
+
+###
+
+GET http://localhost:8001/pay/getAll
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Cookie: XDEBUG_SESSION=18459
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-02-28T181347.500.json
+
+###
+
+GET http://localhost:8001/pay/getAll
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-02-28T181346.500.json
+
+###
+
+GET http://localhost:8001/pay/getAll
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-02-28T181344.500.json
+
+###
+
+GET http://localhost:8001/pay/getAll
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-02-28T181213.500.json
+
+###
+
+GET http://localhost:8001/pay/get/1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-02-28T175525.500.json
+
+###
+
+GET http://localhost:8001/pay/get/1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-02-28T175406.500.json
+
+###
+

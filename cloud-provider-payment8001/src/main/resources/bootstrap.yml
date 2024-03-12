@@ -1,0 +1,17 @@
+#优先级高于application.yml，不会被本地覆盖
+spring:
+  application:
+    name: cloud-payment-service
+  cloud:
+    #注册中心
+    consul:
+      host: localhost
+      port: 8500
+      discovery:
+        service-name: ${spring.application.name}
+        heartbeat:
+          enabled: true
+      config:
+        profile-separator: '-' #修改官方的，分隔符为-, -dev.yaml
+        format: YAML
+
