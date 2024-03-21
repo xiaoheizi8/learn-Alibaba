@@ -9,6 +9,10 @@
     <module>cloud-api-commons</module>
     <module>cloud-provider-payment8002</module>
     <module>cloud-consumer-feign-order80</module>
+    <module>cloudalibaba-provider-payment9001</module>
+    <module>cloudalibaba-consumer-nacos-order83</module>
+    <module>cloud-alibaba-config-nacos-client-3377</module>
+    <module>cloudalibaba-sentinel-service8401</module>
 </modules>
     <groupId>com.example</groupId>
     <artifactId>cloud2024</artifactId>
